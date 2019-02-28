@@ -30,7 +30,11 @@ class SidebarAppBar extends PureComponent {
           </Tooltip>
 
           <Typography variant="h6" color="inherit">
-            Logo
+            <img
+              src="https://i.imgur.com/juFY6Hw.jpg"
+              alt="logo"
+              width="50px"
+            />
           </Typography>
         </Toolbar>
       </AppBar>

@@ -7,7 +7,7 @@ class Logo extends PureComponent {
   render() {
     return (
       <Typography variant="h6" color="inherit">
-        Logo
+        <img src="https://i.imgur.com/juFY6Hw.jpg" alt="logo" width="50px" />
       </Typography>
     );
   }
